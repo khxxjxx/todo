@@ -1,3 +1,3 @@
 ## https://khxxjxx.github.io/todo
 
-### <a href="https://github.com/khxxjxx/coding_study/tree/master/React/todo">코드보러가기</a>
+### <a href="https://github.com/khxxjxx/project/tree/master/todo">코드보러가기</a>
